@@ -29,8 +29,8 @@ window = {
 	button_standard = {
 		parentanchor = top|left
 		position = { 0 0}
-		size = { 20 20 }
-		raw_text = "e"
+		size = { 60 20 }
+		raw_text = "exit"
 		
 		onclick = "[ExecuteConsoleCommand('event talk_event.9002')]"		
 		onclick = "[ExecuteConsoleCommand('GUI.ClearWidgets talk_window talk_window_counter')]"		

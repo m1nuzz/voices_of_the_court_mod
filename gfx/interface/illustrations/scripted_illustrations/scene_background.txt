@@ -118,6 +118,25 @@ talk_background = {
 	}
 	
 	##########################################
+	#landlesscamp
+	
+	texture = {
+		trigger = {		
+			global_var:talk_scene = flag:talk_scene_landlesscamp
+		}
+		
+		reference = "scenes/camp.dds"	
+	}
+	
+	texture = {
+		trigger = {		
+			global_var:talk_scene = flag:talk_scene_landlesscamp
+		}
+		
+		reference = "environment_event_genericcamp"	
+	}
+	
+	##########################################
 	#hunt
 	
 	texture = {

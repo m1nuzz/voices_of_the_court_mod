@@ -87,6 +87,7 @@ talk_event.1001 = {
 talk_event.9001 = {
 	type = character_event
 	title = "aha"
+	window = fullscreen_event
 	theme = clipboard_transfer_event_theme
 	desc = talk_event.9001.desc
 	
@@ -124,6 +125,7 @@ talk_event.9001 = {
 talk_event.9002 = {
 	type = character_event
 	title = "aha"
+	window = fullscreen_event
 	theme = clipboard_transfer_event_theme
 	desc = talk_event.9002.desc
 	
@@ -137,10 +139,11 @@ talk_event.9002 = {
 	}
 }
 
-##
+## action event
 talk_event.9003 = {
 	type = character_event
 	title = "aha"
+	window = fullscreen_event
 	theme = clipboard_transfer_event_theme
 	desc = talk_event.9003.desc
 	

@@ -1,22 +1,13 @@
-﻿######################################################
-################## PORTRAIT TYPES ####################
-######################################################
-
-types PortraitTypes_conversation
+﻿types PortraitTypes_conversation
 {
-
-    ####################################
-    ######### MAIN PORTRAITS ###########
-    ####################################
-
-    # The standard portrait types. CoA, opinion and status icons are included by default; use blockovveride to disable them.
-
 
     type conversation_partner = widget {
         size = { 690 870 }
         tooltip_enabled = no
+		tooltip_visible = no
         portrait_button = {
             tooltip_enabled = no
+			tooltip_visible = no
             parentanchor = bottom|hcenter
             size = { 690 870 }
 			using = portrait_base
