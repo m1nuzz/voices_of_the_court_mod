@@ -173,6 +173,6 @@ talk_background = {
 		
 		reference = "environment_event_alley"	
 	}
-	
+}
 	
 
