@@ -1,0 +1,26 @@
+﻿l_russian:
+
+talk_interaction:0 "Разговор"
+talk_interaction.desc:0 "Начать разговор"
+
+talk_herhim:0 "[recipient.GetHerHim]"
+
+talk_scene_throneroom_string:0 "Встретиться в тронном зале"
+talk_scene_garden_string:0 "Встретиться в саду"
+talk_scene_bedchamber_string:0 "Встретиться в спальне"
+talk_scene_dungeon_string:0 "Встретиться в темнице"
+talk_scene_feast_string:0 "Встретиться на пиру"
+talk_scene_armycamp_string:0 "Встретиться в военном лагере"
+talk_scene_hunt_string:0 "Встретиться на охоте"
+talk_scene_alley_string:0 "Встретиться в переулке"
+talk_travel:0 "Путешествие"
+
+talk_event.1001.title:0 "Прибытие"
+talk_event.1001.desc:0 "Вы наконец прибыли в [actor.GetCurrentLocation.GetName], чтобы встретиться с [recipient.GetTitledFirstName]. Теперь вопрос в том, где мы должны встретиться $talk_herhim$?"
+talk_event.1001.exit:0 "На самом деле, я не хочу разговаривать с $talk_herhim$."
+
+talk_window_end:0 "Закончить разговор"
+
+conversation_opinion:0 "Из разговоров"
+
+not_in_same_province:0 "Мы в одном и том же графстве"
